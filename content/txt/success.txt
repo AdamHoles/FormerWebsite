@@ -1,0 +1,10 @@
+$ git submodule add https://github.com/AdamHoles/HannaTamasfalvi.git content/HannaTamasfalvi
+Cloning into 'C:/Users/adam/Dropbox/Devi/adamholes.github.io/content/HannaTamasfalvi'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (4/4), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), 7.35 KiB | 7.35 MiB/s, done.
+warning: LF will be replaced by CRLF in .gitmodules.
+The file will have its original line endings in your working directory
+
